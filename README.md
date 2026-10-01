@@ -6,7 +6,7 @@ Submitted to **Research Expo 2.0: Inter University Research Proposal & Datathon 
 
 **Team**
 - Minhaz Uddin
-- Ishmam Mohammed Chowdhury
+- Ishmam Md Chowdhury
 - Syed Ar Rafi
 
 Department of Computer Science and Engineering (CSE), BRAC University
