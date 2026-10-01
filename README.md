@@ -86,7 +86,7 @@ See `/poster/` for the full visual breakdown of this pipeline.
 ├── poster/
 │   └── poster.png / poster.pdf        # the printed poster
 ├── docs/
-│   └── proposal.pdf                   # full written proposal
+│   └── proposal.pdf / detailed report.pdf       # full written proposal
 ├── notebooks/
 │   └── proof_of_concept.ipynb         # synthetic-data demo of the feature + classification pipeline
 └── references.md
